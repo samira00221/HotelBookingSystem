@@ -1,0 +1,14 @@
+body
+{
+    background-color: black;
+    size: 20px;
+    color: green;
+}
+h1
+{
+    color: rgba(255, 0, 0, 0.774);
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    background-color: white;
+}
